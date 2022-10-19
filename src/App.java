@@ -5,21 +5,21 @@
  *  
  *  When the mouse is clicked: 
  *  1. The color of the circle should change randomly.
- *  2. The center of the circle should move so that it's X coordinate of the circle is the Y 
- *     coordinate of the mouse press. Similarly, the Y coordinate of the circle should be
+ *  2. The center of the circle should move so that it's X coordinate of the circle's center is the Y 
+ *     coordinate of the mouse press. Similarly, the Y coordinate of the circle's center should be
  *     from the X coordinate of the mouse press. 
  *     
- *     Ex. If I click at (200, 300), the circle should move to (300,200). It should also change
+ *     Ex. If I click at (200, 300), the circle should move its center to (300,200). It should also change
  *     its color randomly.
  *     
- *     If I click at (150, 600), the circle should move to (600, 150). It should also change its
+ *     If I click at (150, 600), the circle should move its center to to (600, 150). It should also change its
  *     color randomly.
  * 
  * To earn an A+:
  * 
- * Complete all the above requirements and surprise me! Be creative in 
- * showing me that you have a mastery of the JavaDraw concepts. This can 
- * be anything that you'd like that you think is impressive!
+ * Complete all the above requirements and surprise me! Be creative in showing me that you have a mastery of 
+ * JavaDraw concepts that were not already covered on the quiz. This can be anything that you'd like that you 
+ * think is impressive!
  */
 
 
